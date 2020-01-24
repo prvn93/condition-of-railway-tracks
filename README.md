@@ -15,7 +15,7 @@ railway tracks and make the proposed system a smarter and more efficient one.
 3. Won 2nd prize in Hackicav-2018 conducted by IIIT Kottayam
 
 ***TEAM:***
-1. Praveen.S ---------------- https://www.linkedin.com/in/praveen-senthilkumar/
+1. Praveen.S 
 2. Arunkumar.B -------------- https://www.linkedin.com/in/arunkumar-balasubramanian-b11a71182
 3. Indhumathi.U ------------- https://www.linkedin.com/in/indumathi-uthrapathy-2b8441141
 4. Pratyusha.M -------------- https://www.linkedin.com/in/pratyushamahavadi-aa886986
